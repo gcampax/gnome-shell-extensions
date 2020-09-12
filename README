@@ -1,3 +1,9 @@
+THIS REPO IS OBSOLETE. PLEASE SEE THE NEW REPO AT
+https://gitlab.gnome.org/GNOME/gnome-shell-extensions/
+
+
+--- original README follows ---
+
 GNOME Shell Extensions is a collection of extensions providing additional
 and optional functionality to GNOME Shell.
 Since GNOME Shell is not API stable, extensions work only against a very
